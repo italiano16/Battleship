@@ -1,7 +1,4 @@
 # Battleship
- Battleship game - Engineering 1181 Software Design Project
- 
- # Battleship
 OSU Engineering 1181 Software design project to create a game using MATLAB and the COE provided simple game engine <br />
 
 **Battleship**: Simple battleship game dispayed using simple game engine with 3 levels of AI difficulty <br />
